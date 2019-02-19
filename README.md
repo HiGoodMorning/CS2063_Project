@@ -25,14 +25,24 @@ https://help.github.com/articles/cloning-a-repository/
 
 https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 
-4) Adding and Commiting your work
+4) Fetching and pulling git hub
+
+최신 코드로 업데이트 하는법
+차이점 https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
+
+**차이를 꼭 확인하자
+
+Fetch - https://git-scm.com/docs/git-fetch
+Pull - https://git-scm.com/docs/git-pull
+
+5) Adding and Commiting your work
 
 터미널의 이용하여 자신이 쓴 코드를 깃허브에 올리기
 **되도록이면 마스터 브랜치로 바로 넣는건 안하길바람
 
 https://git-scm.com/docs/git-commit
 
-5) Pull request
+6) Pull request
 
 자신이 만든 브랜치와 마스터 브랜치의 합체하는 과정
 **일단 자기꺼 되면 해야됨
