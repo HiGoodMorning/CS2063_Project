@@ -1,7 +1,7 @@
 # CS2063_Project
 
 ##############
-Check out following pages to set up Your 'Frist' Git up res :)
+Check out following pages to set up Your 'First' Git res :)
 
 1) First time Git Set-up
 첫번째, 컴퓨터에 깃허브 등록하기
