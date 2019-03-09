@@ -1,4 +1,4 @@
-PLEASE READ....
+PLEASE READ....<<<<< REFERS TO DDD(2).ZIP
 
 The boids.java and MyLWPService.java are from Google ^^
 
